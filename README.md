@@ -33,7 +33,7 @@ bank-account-simulation/
 ## Installation
 -> Clone the repository:
 ```bash
-git clone https://github.com/an5-huu/Bank-Account-Simulation.git
+git clone https://github.com/anshurs/Bank-Account-Simulation.git
 ```
 
 ## Usage
